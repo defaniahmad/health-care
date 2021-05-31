@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="profile_desc_button_back">Button Back</string>
+    <string name="profile_desc_image_profile">Image Profile</string>
+
+    <string name="home_search">Search</string>
+    <string name="home_desc_button_search">Button Search</string>
+</resources>
